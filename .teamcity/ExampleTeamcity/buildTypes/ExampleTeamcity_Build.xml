@@ -4,7 +4,6 @@
   <description />
   <settings>
     <options>
-      <option name="checkoutMode" value="MANUAL" />
       <option name="cleanBuild" value="true" />
     </options>
     <parameters />
