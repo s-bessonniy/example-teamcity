@@ -6,7 +6,7 @@
   <param name="authMethod" value="PASSWORD" />
   <param name="branch" value="refs/heads/master" />
   <param name="ignoreKnownHosts" value="true" />
-  <param name="secure:password" value="credentialsJSON:27ff1a61-3e2d-457a-a408-48e6da2c50fb" />
+  <param name="secure:password" value="credentialsJSON:e4be4154-fd21-4246-b1e9-159555b4edab" />
   <param name="submoduleCheckout" value="CHECKOUT" />
   <param name="teamcity:branchSpec" value="refs/heads/*" />
   <param name="url" value="https://github.com/s-bessonniy/example-teamcity.git" />
