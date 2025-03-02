@@ -3,9 +3,6 @@
   <name>Build</name>
   <description />
   <settings>
-    <options>
-      <option name="cleanBuild" value="true" />
-    </options>
     <parameters />
     <build-runners>
       <runner id="Maven2" name="" type="Maven2">
